@@ -15,7 +15,7 @@ The authors aim to provide economic insights into Bitcoin transactions through c
   - **Trends and Patterns**: The visualizations track UTXO and STXO changes over time, illustrating trends like transaction lifespans and age distributions.
   - **Economic Indicators**: Key indicators like the concentration of long-term unspent BTCs are highlighted, aligning the visualization with tasks focused on economic stability and Bitcoin’s behavior as an asset.
 
-This task abstraction effectively connects visualization with user goals, presenting patterns, distributions, and trends relevant to Bitcoin’s economic study&#8203;:contentReference[oaicite:0]{index=0}.
+This task abstraction effectively connects visualization with user goals, presenting patterns, distributions, and trends relevant to Bitcoin’s economic study.
 
 ## Task Abstraction: How to Visualize
 
@@ -29,7 +29,7 @@ The authors validate their visualizations by effectively choosing representation
   - **Faceting**: Cohort partitioning allows for streamlined querying and filtering by specific dates or age ranges, enabling comparative analysis across various Bitcoin age groups.
   - **Reduction**: By partitioning the raw data into daily cohorts and condensing it into a time-series format, complexity is reduced, facilitating easy comprehension of the large dataset.
 
-The encoding choices, coupled with cohort-based faceting, enable users to interact with the data in a meaningful way, ensuring the visualization’s integrity and alignment with analytical goals&#8203;:contentReference[oaicite:1]{index=1}&#8203;:contentReference[oaicite:2]{index=2}.
+The encoding choices, coupled with cohort-based faceting, enable users to interact with the data in a meaningful way, ensuring the visualization’s integrity and alignment with analytical goals.
 
 ## Conclusion
 
