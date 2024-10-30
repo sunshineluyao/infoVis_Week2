@@ -2,8 +2,8 @@
 
 <div align="center">
     <figure>
-        <img src="./InfoVis_Redesign.png" alt="InfoVis Redesign" width="800">
         <figcaption><b>InfoVis Redesign: Fake it Until You Make it</b></figcaption>
+        <img src="./InfoVis_Redesign.png" alt="InfoVis Redesign" width="800">
     </figure>
 </div>
 
