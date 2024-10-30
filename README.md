@@ -1,5 +1,13 @@
 # Information Visualization Redesign of "Deciphering Bitcoin Blockchain Data by Cohort Analysis"
 
+<div align="center">
+    <figure>
+        <img src="./InfoVis_Redesign.png" alt="InfoVis Redesign" width="600">
+        <figcaption><b>InfoVis Redesign: Fake it Until You Make it</b></figcaption>
+    </figure>
+</div>
+
+
 This repository is dedicated to the information visualization (infovis) redesign of the paper:
 
 **Paper**: Liu, Y., Zhang, L., & Zhao, Y. (2022). *Deciphering Bitcoin Blockchain Data by Cohort Analysis*. *Scientific Data*, 9, 136.  
