@@ -7,6 +7,7 @@
     </figure>
 </div>
 
+---
 
 This repository is dedicated to the information visualization (infovis) redesign of the paper:
 
